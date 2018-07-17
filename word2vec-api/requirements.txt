@@ -1,0 +1,4 @@
+Flask
+Flask-RESTful
+gensim==3.4.0
+
