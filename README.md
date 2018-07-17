@@ -33,7 +33,6 @@ Note: The "model" method returns a base64 encoding of the vector. "model\_word\_
 In case you do not have domain specific data to train, it can be convenient to use a pretrained model. 
 Please feel free to submit additions to this list through a pull request.
 
-** As part of the NLPIE, we are using the Pubmed Central corpus
  
 | Model file | Number of dimensions | Corpus (size)| Vocabulary size | Author | Architecture | Training Algorithm | Context window - size | Web page |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
