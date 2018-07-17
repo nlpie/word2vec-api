@@ -33,7 +33,7 @@ In case you do not have domain specific data to train, it can be convenient to u
 For this project, we trained the following data sets using the gensim implementation of Word2Vec
  
 | Data source |  Provided by | Web page |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | [Pubmed Central oa_bulk corpus](https://www.ncbi.nlm.nih.gov/pmc/tools/ftp/) | NLM/NIH |[link](https://www.ncbi.nlm.nih.gov/pmc/tools/ftp/) |
 
 
